@@ -1,6 +1,16 @@
 
 # Viessmann Heizungen mit Loxone Steuern und das für unter 10€...
 
+Mit diesem Gerät kann man aus Viessmann-Heizungen auslesen: 
+- Abgastemperatur
+- Außentemperatur
+- Eingestellte Raumtemperatur
+- Vorlauftemperatur
+...und steuern:
+- Raumtemperatur
+
+Diese Datenpunkte werden später erweitert. 
+
 Hardware:
 - NodeMCU (reichelt: https://www.reichelt.de/nodemcu-esp8266-wifi-modul-debo-jt-esp8266-p219900.html)
 - Widerstand 10 kOhm (reichelt: https://www.reichelt.de/widerstand-k...-p237477.html?)
