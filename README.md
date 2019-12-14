@@ -35,3 +35,5 @@ Programmierung:
 
 
 Bei Fragen bin ich über das loxforum (https://www.loxforum.com/member/8211-loxcat) erreichbar... 
+
+Disclaimer: Keine Haftung für Schäden an Heizungsanlagen (getestet mit der Vitodens 200-W 19kW 2013)
