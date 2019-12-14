@@ -4,7 +4,7 @@
 #include <WiFiUdp.h>
 
 String ssid = "HeimwehLAN";
-String pass = "Strolchi2002";
+String pass = "DiesesPasswortkenntnurdieKatze";
 
 String MiniserverIP = "192.168.178.49";
 unsigned int MiniserverPort = 3333;
