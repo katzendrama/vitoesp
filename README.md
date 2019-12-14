@@ -13,9 +13,9 @@ Diese Datenpunkte werden später erweitert.
 
 Hardware:
 - NodeMCU (reichelt: https://www.reichelt.de/nodemcu-esp8266-wifi-modul-debo-jt-esp8266-p219900.html)
-- Widerstand 10 kOhm (reichelt: https://www.reichelt.de/widerstand-k...-p237477.html?)
-- Widerstand 180 Ohm (reichelt: https://www.reichelt.de/widerstand-k...80-p1362.html?)
-- IR-LED 880nm 3mm (reichelt: https://www.reichelt.de/ir-led-880-n...-p216819.html? )
+- Widerstand 10 kOhm (reichelt: https://www.reichelt.de/widerstand-kohleschicht-10-kohm-axial-500-mw-5-arc-rcc050-10k-j-p237477.html?r=1)
+- Widerstand 180 Ohm (reichelt: https://www.reichelt.de/widerstand-kohleschicht-180-ohm-0207-250-mw-5-1-4w-180-p1362.html?r=1)
+- IR-LED 880nm 3mm (reichelt: https://www.reichelt.de/ir-led-880-nm-3-mm-t1-l-7104sf4bt-kb-p216819.html?r=1)
 - IR-Fototransistor SFH 309 FA (reichelt: https://www.reichelt.de/fototransistor-npn-35v-165ma-0-165w-bedrahtet-sfh-309-fa-p60553.html?r=1)
 
 Hinweis:
