@@ -16,7 +16,7 @@ Hardware:
 - Widerstand 10 kOhm (reichelt: https://www.reichelt.de/widerstand-k...-p237477.html?)
 - Widerstand 180 Ohm (reichelt: https://www.reichelt.de/widerstand-k...80-p1362.html?)
 - IR-LED 880nm 3mm (reichelt: https://www.reichelt.de/ir-led-880-n...-p216819.html? )
-- IR-Fototransistor SFH 309 FA (reichelt: https://www.reichelt.de/fototransist...?&trstct=pos_0)
+- IR-Fototransistor SFH 309 FA (reichelt: https://www.reichelt.de/fototransistor-npn-35v-165ma-0-165w-bedrahtet-sfh-309-fa-p60553.html?r=1)
 
 Hinweis:
 Es empfiehlt sich von den Kleinteilen mehr als nur 1 zu bestellen, denn bricht ein Beinchen ab oder ähnliches, trauert man um die paar Cent nicht... Ein passendes Netzteil hat man meist noch rumliegen, ansonsten gibt es dieses hier: https://www.reichelt.de/usb-ladegeraet-5-v-2500-ma-schwarz-microusb-otb-8012053-p263200.html?&trstct=pos_7
