@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VirtualOut Title="Viessmann" Comment="" Address="/dev/udp/<Adresse des VitoESP>/4210" CmdInit="" CloseAfterSend="true" CmdSep=";">
+	<VirtualOutCmd Title="Innentemperatur einstellen" Comment="" CmdOnMethod="GET" CmdOffMethod="GET" CmdOn="settemp:&lt;v&gt;" CmdOnHTTP="" CmdOnPost="" CmdOff="" CmdOffHTTP="" CmdOffPost="" Analog="true" Repeat="0" RepeatRate="0"/>
+</VirtualOut>

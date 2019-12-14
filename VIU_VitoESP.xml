@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VirtualInUdp Title="Vitodens" Comment="" Address="" Port="3333">
+	<VirtualInUdpCmd Title="Außentemperatur" Comment="" Address="" Check="Aussentemperatur:\v" Signed="true" Analog="true" SourceValLow="0" DestValLow="0" SourceValHigh="100" DestValHigh="100" DefVal="0" MinVal="-10000" MaxVal="10000"/>
+	<VirtualInUdpCmd Title="Eingestellte Innentemperatur" Comment="" Address="" Check="Eingestellte Innentemperatur: \v" Signed="true" Analog="true" SourceValLow="0" DestValLow="0" SourceValHigh="100" DestValHigh="100" DefVal="0" MinVal="-10000" MaxVal="10000"/>
+	<VirtualInUdpCmd Title="Abgastemperatur" Comment="" Address="" Check="Abgastemperatur:\v" Signed="true" Analog="true" SourceValLow="0" DestValLow="0" SourceValHigh="100" DestValHigh="100" DefVal="0" MinVal="-10000" MaxVal="10000"/>
+	<VirtualInUdpCmd Title="Vorlauftemperatur" Comment="" Address="" Check="Vorlauftemperatur:\v" Signed="true" Analog="true" SourceValLow="0" DestValLow="0" SourceValHigh="100" DestValHigh="100" DefVal="0" MinVal="-10000" MaxVal="10000"/>
+</VirtualInUdp>
